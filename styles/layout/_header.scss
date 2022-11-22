@@ -1,0 +1,50 @@
+header {
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 80vh;
+  .navbar {
+    height: 4rem;
+    box-sizing: border-box;
+    width: 105%;
+    background-color: black;
+    opacity: 0.6;color: white;
+    margin-left: -6rem;
+    display: flex;
+    .Heading{
+        h2{
+            color: white;
+            position: absolute;
+            margin-top: 1.6rem;
+            margin-left: 27rem
+        }}
+    .list{
+        margin-top: 1.6rem;
+        margin-left: 98rem;
+        ul{
+            display: flex;
+            li{
+                margin-right: 1rem;
+
+                a{
+                    text-decoration: none;
+                    color: white;
+                }
+            }
+        }
+    }
+    }
+    .section{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+        h1{
+            font-size: 5.8rem;
+        }
+        h2{
+            font-size: 3.7rem;
+        }
+    }
+  }
